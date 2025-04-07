@@ -2,4 +2,4 @@ Tittle: Enoch Babayanju
 Logo:
 Description: Data Analyst
 Downloads: False
-theme: Jekyll_theme_midnight
+theme: remote_theme: pages-themes/midnight@v0.2.0
