@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Enoch's Portfolio
+## Hi, I’m Enoch Babayanju
+   A Data Analyst and Data Visualization Specialist with a background in History and International Studies. What excites me most about data is its potential to tell stories that help people make better decisions. I specialize in turning complex data into something clear, interactive and visually engaging using tools like Power BI, Excel, and Tableau.I’ve had the opportunity to work on a wide range of projects, simplifying complex datasets and providing businesses with actionable insights that guide smarter decisions.  
+   For me, data isn’t just about numbers it’s about finding the hidden patterns, trends and narratives that can make a real impact. I go beyond just analyzing numbers my focus is on crafting compelling narratives from data, uncovering trends, optimizing processes and presenting findings in an easily digestible way. If you’re in need of someone who can not only analyze but also visually present data in an engaging manner, you’ve come to the right place. I’m eager to collaborate with you to turn data into meaningful and actionable insights.
 <!--
 **enochanalyst/enochanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
